@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "7e9e9149bf83bde18c9b7f8770e0b7de"
+build_time: [1585550292, 418079000]
+inputs:
+  "/Users/JenishMistry/DEMOS/MVVM DemoAPI/Pods/MarqueeLabel/Sources/MarqueeLabel.swift": [1585033588, 441125182]

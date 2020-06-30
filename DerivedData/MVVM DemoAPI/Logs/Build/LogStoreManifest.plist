@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>C45D7E93-10AD-4E87-B70A-7F5AF7D5E1EC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C45D7E93-10AD-4E87-B70A-7F5AF7D5E1EC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVVM DemoAPI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVVM DemoAPI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MVVM DemoAPI</string>
+			<key>timeStartedRecording</key>
+			<real>607244944.60291696</real>
+			<key>timeStoppedRecording</key>
+			<real>607244949.01297903</real>
+			<key>title</key>
+			<string>Build MVVM DemoAPI</string>
+			<key>uniqueIdentifier</key>
+			<string>C45D7E93-10AD-4E87-B70A-7F5AF7D5E1EC</string>
+		</dict>
+		<key>E95CCAC7-0110-4E07-80BA-924E34F64728</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E95CCAC7-0110-4E07-80BA-924E34F64728.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVVM DemoAPI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVVM DemoAPI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MVVM DemoAPI</string>
+			<key>timeStartedRecording</key>
+			<real>615198031.94395494</real>
+			<key>timeStoppedRecording</key>
+			<real>615198047.99572098</real>
+			<key>title</key>
+			<string>Build MVVM DemoAPI</string>
+			<key>uniqueIdentifier</key>
+			<string>E95CCAC7-0110-4E07-80BA-924E34F64728</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

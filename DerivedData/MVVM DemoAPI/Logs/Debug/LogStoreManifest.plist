@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>7B528C07-14DE-464B-ABDA-64BB925316DB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7B528C07-14DE-464B-ABDA-64BB925316DB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVVM DemoAPI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVVM DemoAPI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug MVVM DemoAPI</string>
+			<key>timeStartedRecording</key>
+			<real>615198048.00793004</real>
+			<key>timeStoppedRecording</key>
+			<real>615198103.78796005</real>
+			<key>title</key>
+			<string>Debug MVVM DemoAPI</string>
+			<key>uniqueIdentifier</key>
+			<string>7B528C07-14DE-464B-ABDA-64BB925316DB</string>
+		</dict>
+		<key>D3F86A8B-9982-4EE8-A17D-AFCF0DE05F0A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D3F86A8B-9982-4EE8-A17D-AFCF0DE05F0A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MVVM DemoAPI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MVVM DemoAPI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug MVVM DemoAPI</string>
+			<key>timeStartedRecording</key>
+			<real>607238117.57441294</real>
+			<key>timeStoppedRecording</key>
+			<real>607238164.02700102</real>
+			<key>title</key>
+			<string>Debug MVVM DemoAPI</string>
+			<key>uniqueIdentifier</key>
+			<string>D3F86A8B-9982-4EE8-A17D-AFCF0DE05F0A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

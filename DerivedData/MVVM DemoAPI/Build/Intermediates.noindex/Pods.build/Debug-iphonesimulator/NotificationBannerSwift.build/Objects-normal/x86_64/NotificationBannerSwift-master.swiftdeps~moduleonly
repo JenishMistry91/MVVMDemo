@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "7a2c5509ec9a528afd96b1a816024dd4"
+build_time: [1593505238, 293970000]
+inputs:
+  "/Users/JenishMistry/DEMOS/MVVM DemoAPI/Pods/NotificationBannerSwift/NotificationBanner/Classes/BannerColors.swift": [1585033644, 977204248]
+  "/Users/JenishMistry/DEMOS/MVVM DemoAPI/Pods/NotificationBannerSwift/NotificationBanner/Classes/BannerHapticGenerator.swift": [1585033644, 977609122]
+  "/Users/JenishMistry/DEMOS/MVVM DemoAPI/Pods/NotificationBannerSwift/NotificationBanner/Classes/BannerPositionFrame.swift": [1585033644, 976686305]
+  "/Users/JenishMistry/DEMOS/MVVM DemoAPI/Pods/NotificationBannerSwift/NotificationBanner/Classes/BannerStyle.swift": [1585033644, 976804825]
+  "/Users/JenishMistry/DEMOS/MVVM DemoAPI/Pods/NotificationBannerSwift/NotificationBanner/Classes/BaseNotificationBanner.swift": [1585033644, 977745703]
+  "/Users/JenishMistry/DEMOS/MVVM DemoAPI/Pods/NotificationBannerSwift/NotificationBanner/Classes/FloatingNotificationBanner.swift": [1585033644, 976559153]
+  "/Users/JenishMistry/DEMOS/MVVM DemoAPI/Pods/NotificationBannerSwift/NotificationBanner/Classes/GrowingNotificationBanner.swift": [1585033644, 977492297]
+  "/Users/JenishMistry/DEMOS/MVVM DemoAPI/Pods/NotificationBannerSwift/NotificationBanner/Classes/NotificationBanner.swift": [1585033644, 978003264]
+  "/Users/JenishMistry/DEMOS/MVVM DemoAPI/Pods/NotificationBannerSwift/NotificationBanner/Classes/NotificationBannerQueue.swift": [1585033644, 977884586]
+  "/Users/JenishMistry/DEMOS/MVVM DemoAPI/Pods/NotificationBannerSwift/NotificationBanner/Classes/NotificationBannerUtilities.swift": [1585033644, 977082352]
+  "/Users/JenishMistry/DEMOS/MVVM DemoAPI/Pods/NotificationBannerSwift/NotificationBanner/Classes/StatusBarNotificationBanner.swift": [1585033644, 976964744]
+  "/Users/JenishMistry/DEMOS/MVVM DemoAPI/Pods/NotificationBannerSwift/NotificationBanner/Classes/String+heightForConstrainedWidth.swift": [1585033644, 977325009]
